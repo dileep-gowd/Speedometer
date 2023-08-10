@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #07080c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.hd1 {
+  font-size: 50px;
+  font-weight: 4s00;
+}
+
+img {
+  width: 100vh;
+}
+
+.btn1 {
+  margin-right: 10px;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  padding: 8px;
+  color: #ffffff;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.btn2 {
+  margin-right: 10px;
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 8px;
+  color: #94a3b8;
+  border-width: 3px;
+  border-color: #94a3b8;
+  border-style: solid;
+  cursor: pointer;
+  outline: none;
+}
